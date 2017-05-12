@@ -1,0 +1,24 @@
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\VkPointChecker.exe.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\VkPointChecker.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\VkPointChecker.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\LinqToExcel.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\Remotion.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\Remotion.Interfaces.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\VkPointChecker.Data.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\WebDriver.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\WebDriver.Support.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\VkPointChecker.Data.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\LinqToExcel.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\WebDriver.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\bin\Debug\WebDriver.Support.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\obj\Debug\VkPointChecker.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\obj\Debug\VkPointChecker.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecher\obj\Debug\VkPointChecker.pdb
+C:\Users\Oleg\Source\Repos\Blanks\VkPointChecher\bin\Debug\VkPointChecker.exe.config
+C:\Users\Oleg\Source\Repos\Blanks\VkPointChecher\obj\Debug\VkPointChecker.exe
+C:\Users\Oleg\Source\Repos\Blanks\VkPointChecher\obj\Debug\VkPointChecker.pdb

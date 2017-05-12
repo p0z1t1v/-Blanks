@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PointDbModelStoreContainer" CdmEntityContainer="PointsDbEntities">
+    <EntitySetMapping Name="CurrentPoints">
+      <EntityTypeMapping TypeName="PointDbModel.CurrentPoints">
+        <MappingFragment StoreEntitySet="CurrentPoints">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Adress" ColumnName="Adress" />
+          <ScalarProperty Name="GLN" ColumnName="GLN" />
+          <ScalarProperty Name="Customer" ColumnName="Customer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PointListItems">
+      <EntityTypeMapping TypeName="PointDbModel.PointListItems">
+        <MappingFragment StoreEntitySet="PointListItems">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Adress" ColumnName="Adress" />
+          <ScalarProperty Name="GLN" ColumnName="GLN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

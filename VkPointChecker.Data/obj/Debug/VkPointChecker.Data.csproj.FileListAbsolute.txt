@@ -1,0 +1,10 @@
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\bin\Debug\VkPointChecker.Data.dll.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\bin\Debug\VkPointChecker.Data.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\bin\Debug\VkPointChecker.Data.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\obj\Debug\VkPointChecker.Data.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\obj\Debug\VkPointChecker.Data.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\VkPointChecher\VkPointChecker.Data\obj\Debug\VkPointChecker.Data.pdb
